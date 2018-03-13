@@ -11,7 +11,8 @@
   "subjectAction" : ["lost", "searched for", "stole", "stumbled upon", "destroyed", "damaged", "saw", "talked about", "boasted about", "burned", "asked around about", "discovered"],
 
   "subjectItem" : ["an old heirloom", "a peculiar artifact", "some weird writings", "a letter written in an unfamiliar language", "a dragon egg", "an unidentified dead body", "a suicide note",
-  "a book made from human skin", "a haunted manor", "the formula to turn iron to gold", "a secret treasure"],
+  "a book made from human skin", "a haunted manor", "the formula to turn iron to gold", "a secret treasure", "an antique weapon", "an antique armor", "a burnt book", "the diary of an old priest",
+  "the diary of an old mage", "the remains of a magical ritual", "signs of demon summoning", "an old map", "evidence that exposed someone as a spy"],
 
   "subjectLocation" : ["in a pond", "under a house", "on the tavern floor", "in the forest", "in a cave", "under the roots of a tree", "in the house of a friend", "in a church", "in a temple"
   , "under a rock", "in front of a library", "in an unknown location", "at his parents house", "in a cellar", "on a boat", "on the sea shore", "at a party in some nobleman's house",
@@ -20,5 +21,6 @@
   "subjectStatus" : ["He was then found dead.", "Some time after he started obsessing about it.", "He tried to get rid of it but it would always return to him.", "He disappeared after a while.",
     "His mental health slowly degraded thereafter and eventually turned mad.", "His spouse found his bones beside her in bed the next morning.", "He was later found naked and blind on the streets.",
   "He disappeared for a week and was then found with his tongue cut out and strange runes carved on his skin.", "He went for a stroll in the woods the next day never to be seen again.",
-  "He then started to write a book containing facts that systematically happened over time."]
+  "He then started to write a book containing facts that systematically happened over time.", "He was found by a group of children, hanged from a tree near a clearing",
+    "It is said that after that he soon became the leader of a fierce group of bandits that plague these lands"]
 }
