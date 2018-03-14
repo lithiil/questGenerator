@@ -6,6 +6,6 @@ $generator = new QuestGenerator();
 
 $data = $generator->getData();
 
-$quest = $generator->generateQuest($data);
+$quest = $generator->generateRumor($data);
 
 echo $quest;

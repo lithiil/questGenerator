@@ -4,12 +4,12 @@ class QuestGenerator
 {
     public function getData () {
 
-        $rawData = file_get_contents('data/data.json');
+        $rawData = file_get_contents('data/rumors.json');
         $data = json_decode($rawData);
         return $data;
     }
 
-    public function generateQuest ($data) {
+    public function generateRumor ($data) {
 
         $ids = [
             $subjectId = rand(1, count($data->subjects)) - 1,
