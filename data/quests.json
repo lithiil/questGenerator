@@ -1,9 +1,79 @@
 {
-  "QuestGiver" : ["The King", "The chieftan of a village", "A priest", "The leader of a cult"],
-  "MainAction" : ["Kill the dragon", "Stop the bandits", "Retrieve the artifact", "Cleanse the shrine", "Destroy the shrine"],
-  "Location" : ["in the dark forest", "in the catacombs beneath the desecrated temple", "in the caves beneath the red lake", "in the lost city beneath the dunes"],
-  "Direction" : ["to the north", "to the east", "to the west", "to the south"],
-  "Duration" : ["1 week", "2 weeks", "3 weeks", "4 weeks", "5 days", "3 days", "66 days", "1 month", "2 months"],
-  "Transportation" : ["by foot", "by horse", "with a caravan", "with a hot air baloon", "with a zepelin"],
-  "Reward" : ["fame and gold", "a magical sword", "a magical axe", "a magical mace", "a magical bow", "a small castle"]
+  "QuestGiver" : [
+    "The King",
+    "The chieftan of a village",
+    "A priest",
+    "The leader of a cult",
+    "Some boy",
+    "A man who states that he is the avatar of a god",
+    "A peculiar man from the tavern",
+    "A mage",
+    "A sorcerer",
+    "A scholar"
+  ],
+
+  "MainAction" : [
+    "kill the dragon",
+    "stop the bandits",
+    "retrieve the artifact",
+    "cleanse the shrine",
+    "destroy the shrine",
+    "get rid of the necromancer",
+    "bring him the sacred cup of immortality",
+    "bring him some strange book",
+    "rescue his wife",
+    "rescue his daughter",
+    "find his pet Griffon"
+  ],
+
+  "Location" : [
+    "in the dark forest",
+    "in the catacombs beneath the desecrated temple",
+    "in the caves beneath the red lake",
+    "in the lost city beneath the dunes",
+    "in the abandoned mage tower",
+    "in the infested iron mines",
+    "in a haunted castle",
+    "in the forgotten city of the dead",
+    "in the flying fortress"
+  ],
+
+  "Direction" : [
+    "to the north",
+    "to the east",
+    "to the west",
+    "to the south"
+  ],
+
+  "Duration" : [
+    "1 week",
+    "2 weeks",
+    "3 weeks",
+    "4 weeks",
+    "5 days",
+    "3 days",
+    "66 days",
+    "1 month",
+    "2 months"
+  ],
+
+  "Transportation" : [
+    "by foot",
+    "by horse",
+    "with a caravan",
+    "with a hot air baloon",
+    "with a zepelin"
+  ],
+
+  "Reward" : [
+    "fame and gold throughout his territory. You will receive discounts from his merchants.",
+    "a bright sanguine colored sword embroided with onyx gems.",
+    "an axe which mocks the enemies when wielded",
+    "a dark colored mace with subtle cracks that emanate light",
+    "a bow that shoots projectiles made of air",
+    "a small manor on the southern border of his territory",
+    "a small manor on the northern border of his territory",
+    "a small manor on the eastern border of his territory",
+    "a small manor on the western border of his territory"
+  ]
 }
