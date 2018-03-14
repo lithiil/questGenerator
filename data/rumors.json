@@ -1,12 +1,12 @@
 {
   "races" : ["human", "half-orc", "dwarf", "halfing", "elf", "half-elf"],
 
-  "subjects" : ["blacksmith", "merchant", "fisherman", "peasant", "vassal", "scholar", "professor", "mage", "ranger", "mercenary", "soldier", "guard", "tavern owner", "beggar", "priest",
+  "titles" : ["blacksmith", "merchant", "fisherman", "peasant", "vassal", "scholar", "professor", "mage", "ranger", "mercenary", "soldier", "guard", "tavern owner", "beggar", "priest",
   "leatherworker", "tailor", "cook", "alchemist", "scribe", "noble", "monk", "drunkard", "doomsayer"],
 
   "names" : ["Torian Lartuc", "Morlan Braylen", "Olek Marlon", "Calam Rotringer", "Nolan Reeper", "Primus Waitor", "Relechar Donk", "Ricky Mainard", "Gherl Lenard", "Quail Soat"],
 
-  "adjective" : ["mysterious", "simple minded", "bulky", "smart", "tall", "stout", "undersized", "bald", "ill tempered", "charming", "handsome", "uptight", "annoyed", "thin", "skinny", "mad"],
+  "adjectives" : ["mysterious", "simple minded", "bulky", "smart", "tall", "stout", "undersized", "bald", "ill tempered", "charming", "handsome", "uptight", "annoyed", "thin", "skinny", "mad"],
 
   "subjectAction" : ["lost", "searched for", "stole", "stumbled upon", "destroyed", "damaged", "saw", "talked about", "boasted about", "burned", "asked around about", "discovered"],
 
