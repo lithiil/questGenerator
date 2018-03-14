@@ -4,6 +4,7 @@ require 'QuestGenerator.php';
 
 $generator = new QuestGenerator();
 
-$quest = $generator->generateRumor();
+$rumor = $generator->generateRumor();
+$quest = $generator->generateQuest();
 
 echo $quest;

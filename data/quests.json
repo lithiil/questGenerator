@@ -1,0 +1,9 @@
+{
+  "QuestGiver" : ["The King", "The chieftan of a village", "A priest", "The leader of a cult"],
+  "MainAction" : ["Kill the dragon", "Stop the bandits", "Retrieve the artifact", "Cleanse the shrine", "Destroy the shrine"],
+  "Location" : ["in the dark forest", "in the catacombs beneath the desecrated temple", "in the caves beneath the red lake", "in the lost city beneath the dunes"],
+  "Direction" : ["to the north", "to the east", "to the west", "to the south"],
+  "Duration" : ["1 week", "2 weeks", "3 weeks", "4 weeks", "5 days", "3 days", "66 days", "1 month", "2 months"],
+  "Transportation" : ["by foot", "by horse", "with a caravan", "with a hot air baloon", "with a zepelin"],
+  "Reward" : ["fame and gold", "a magical sword", "a magical axe", "a magical mace", "a magical bow", "a small castle"]
+}
