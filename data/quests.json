@@ -23,7 +23,10 @@
     "bring him some strange book",
     "rescue his wife",
     "rescue his daughter",
-    "find his pet Griffon"
+    "find his pet Griffon",
+    "bring him a rare plant",
+    "bring him the book called Songs Of The Demons",
+    "set fire to the remains of an ancient king"
   ],
 
   "Location" : [
@@ -35,14 +38,20 @@
     "in the infested iron mines",
     "in a haunted castle",
     "in the forgotten city of the dead",
-    "in the flying fortress"
+    "in the flying fortress",
+    "in the halls of Virha, the forgotten library",
+    "in the torture chambers of the Weinral Asylum"
   ],
 
   "Direction" : [
     "to the north",
+    "to the north-east",
+    "to the north-west",
     "to the east",
     "to the west",
-    "to the south"
+    "to the south",
+    "to the south-east",
+    "to the south-west"
   ],
 
   "Duration" : [
